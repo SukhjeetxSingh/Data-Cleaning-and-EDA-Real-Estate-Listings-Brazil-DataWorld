@@ -4,6 +4,8 @@ An end-to-end exploratory data analysis (EDA) and data cleaning pipeline that pr
 
 This project is explicitly engineered to handle large-scale data processing smoothly on **Google Colab's free tier**, incorporating advanced memory management principles to prevent system crashes while maintaining maximum data utility.
 
+Link to the dataset: https://data.world/properati/real-estate-listings-brazil
+
 ## 🚀 Key Features
 
 * **Advanced Outlier Mitigation Engine**: 
